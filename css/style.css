@@ -1,0 +1,15 @@
+.first {
+	background-color: #ffffb3;
+	height: 180px;
+}
+
+.second {
+	background-color: #e6fffa;
+	height: 180px;
+}
+.img-size{
+	width: 70%;
+	margin-left: 15%;
+    transform: rotate(90deg);
+
+}
